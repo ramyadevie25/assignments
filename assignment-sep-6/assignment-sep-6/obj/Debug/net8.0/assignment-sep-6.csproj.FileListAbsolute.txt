@@ -1,0 +1,14 @@
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/bin/Debug/net8.0/assignment-sep-6
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/bin/Debug/net8.0/assignment-sep-6.deps.json
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/bin/Debug/net8.0/assignment-sep-6.runtimeconfig.json
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/bin/Debug/net8.0/assignment-sep-6.dll
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/bin/Debug/net8.0/assignment-sep-6.pdb
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.AssemblyInfoInputs.cache
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.AssemblyInfo.cs
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.csproj.CoreCompileInputs.cache
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.dll
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/refint/assignment-sep-6.dll
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.pdb
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/assignment-sep-6.genruntimeconfig.cache
+/Users/ramya/marlab/assignment-sep-6/assignment-sep-6/obj/Debug/net8.0/ref/assignment-sep-6.dll
